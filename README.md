@@ -1,3 +1,3 @@
-# Lung_Tumor_Segmentation
-Segment CT scans to detect tumours in Lung <br />
+# Lung Tumor Segmentation
+Segmentation of a small target (cancer) in a large image
 (Using Lung Tumours - Medical Segmentation Decathlon dataset: [http://medicaldecathlon.com/](http://medicaldecathlon.com/))
